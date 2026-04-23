@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+failed/
+failed.txt
+
+results/generated/
+data/processed/BCB/Clone-pairs-T4.csv
+
+.DS_Store
+Thumbs.db
